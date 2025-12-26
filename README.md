@@ -69,12 +69,12 @@
 
   <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=maryam-rahat&show_icons=true&hide_title=true&hide_border=true"
       alt="GitHub stats"
       height="150"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-rahat&layout=compact&hide_border=true"
       alt="Top languages"
       height="150"
     />
@@ -89,8 +89,8 @@
   <!-- ====== CONTACT ====== -->
   <h2>Contact</h2>
   <p>
-    LinkedIn: <em>add link</em><br/>
-    Email: <em>add email</em>
+    LinkedIn: <em>www.linkedin.com/in/maryam-rahat</em><br/>
+    Email: <em>maryamrahat0@gmail.com</em>
   </p>
 
 </div>
