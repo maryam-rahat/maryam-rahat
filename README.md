@@ -1,63 +1,96 @@
-<h1 align="center">Maryam</h1>
-<p align="center">
-  Computer Science Student • Aspiring Software Development Engineer
-</p>
+<!-- ====== PROFILE HEADER ====== -->
+<div style="
+  max-width: 900px;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #24292f;
+  line-height: 1.6;
+">
 
-<hr/>
+  <h1 style="text-align:center; margin-bottom: 4px;">Maryam</h1>
+  <p style="text-align:center; color:#57606a; margin-top:0;">
+    Computer Science Student • Software Development Engineer (SDE) Aspirant
+  </p>
 
-<h2>About</h2>
-<p>
-I am a computer science student with a strong foundation in data structures,
-algorithms, and software development. I enjoy solving complex problems and
-building reliable, scalable systems.
-</p>
+  <hr style="margin: 24px 0;"/>
 
-<ul>
-  <li>Solved <strong>300+ LeetCode problems</strong> with a focus on DSA</li>
-  <li>Consistently ranked among the <strong>top performers</strong> in my class</li>
-  <li>Experience in <strong>UI/UX design, data science, and machine learning</strong></li>
-  <li>Active contributor and learner in <strong>open source</strong></li>
-  <li>Adobe Campus Ambassador</li>
-</ul>
+  <!-- ====== ABOUT ====== -->
+  <h2>About</h2>
+  <p>
+    I am a computer science student with a strong foundation in
+    <strong>data structures, algorithms, and core computer science</strong>.
+    I enjoy designing efficient solutions, writing clean code, and
+    understanding systems from the ground up.
+  </p>
 
-<hr/>
+  <ul>
+    <li><strong>300+ LeetCode problems</strong> solved (DSA & problem-solving focused)</li>
+    <li>Consistently ranked among the <strong>top students</strong> in my class</li>
+    <li>Strong understanding of <strong>OOP, DBMS, OS, and Computer Networks</strong></li>
+    <li>Experience across <strong>backend development, ML, and system-oriented projects</strong></li>
+    <li>Adobe Campus Ambassador</li>
+  </ul>
 
-<h2>Technical Skills</h2>
+  <hr style="margin: 24px 0;"/>
 
-<p><strong>Languages</strong></p>
-<p>Python • Java • C++ • SQL</p>
+  <!-- ====== SKILLS ====== -->
+  <h2>Technical Skills</h2>
 
-<p><strong>Core Computer Science</strong></p>
-<p>Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks</p>
+  <p><strong>Programming Languages</strong></p>
+  <p>Python • Java • C++ • SQL</p>
 
-<p><strong>Frameworks & Tools</strong></p>
-<p>Django • Flask • TensorFlow • Git & GitHub • VS Code • Figma</p>
+  <p><strong>Core Computer Science</strong></p>
+  <p>
+    Data Structures & Algorithms • Object-Oriented Programming •
+    Database Management Systems • Operating Systems • Computer Networks
+  </p>
 
-<p><strong>Domains</strong></p>
-<p>Software Development • Machine Learning • Data Science • UI/UX • Blockchain</p>
+  <p><strong>Frameworks & Tools</strong></p>
+  <p>Django • Flask • TensorFlow • Git • GitHub • VS Code</p>
 
-<hr/>
+  <p><strong>Additional Experience</strong></p>
+  <p>Machine Learning • Data Science • UI/UX Design • Blockchain</p>
 
-<h2>Current Focus</h2>
-<ul>
-  <li>Preparing for SDE internship and entry-level roles</li>
-  <li>Building machine learning and data-driven projects</li>
-  <li>Working on a glacier retreat prediction project using satellite imagery</li>
-  <li>Increasing open-source contributions</li>
-</ul>
+  <hr style="margin: 24px 0;"/>
 
-<hr/>
+  <!-- ====== CURRENT FOCUS ====== -->
+  <h2>Current Focus</h2>
+  <ul>
+    <li>Preparing for <strong>SDE internship and entry-level roles</strong></li>
+    <li>Strengthening problem-solving and system design fundamentals</li>
+    <li>Building scalable backend and ML-based projects</li>
+    <li>Actively contributing to open-source projects</li>
+  </ul>
 
-<h2>Profiles</h2>
-<ul>
-  <li>LeetCode: 300+ problems solved</li>
-  <li>GitHub: Open to collaboration and contributions</li>
-</ul>
+  <hr style="margin: 24px 0;"/>
 
-<hr/>
+  <!-- ====== GITHUB STATS ====== -->
+  <h2>GitHub Stats</h2>
 
-<h2>Contact</h2>
-<p>
-LinkedIn: <em>add link</em><br/>
-Email: <em>add email</em>
-</p>
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true"
+      alt="GitHub stats"
+      height="150"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+      alt="Top languages"
+      height="150"
+    />
+  </div>
+
+  <p style="text-align:center; color:#57606a; font-size: 14px;">
+    Consistent focus on problem-solving, clean architecture, and maintainable code
+  </p>
+
+  <hr style="margin: 24px 0;"/>
+
+  <!-- ====== CONTACT ====== -->
+  <h2>Contact</h2>
+  <p>
+    LinkedIn: <em>add link</em><br/>
+    Email: <em>add email</em>
+  </p>
+
+</div>
