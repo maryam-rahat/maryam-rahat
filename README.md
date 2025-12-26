@@ -7,7 +7,7 @@
   line-height: 1.6;
 ">
 
-  <h1 style="text-align:center; margin-bottom: 4px;">Maryam</h1>
+  <h1 style="text-align:center; margin-bottom: 4px;">Maryam Rahat</h1>
   <p style="text-align:center; color:#57606a; margin-top:0;">
     Computer Science Student • Software Development Engineer (SDE) Aspirant
   </p>
@@ -66,25 +66,34 @@
 
   <!-- ====== GITHUB STATS ====== -->
   <h2>GitHub Stats</h2>
+  
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+">
 
-  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=maryam-rahat&show_icons=true&hide_title=true&hide_border=true"
-      alt="GitHub stats"
-      height="150"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-rahat&layout=compact&hide_border=true"
-      alt="Top languages"
-      height="150"
-    />
-  </div>
+  <!-- Overall GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maryam-rahat&show_icons=true&count_private=true&hide_border=true"
+    height="150"
+    alt="Maryam GitHub Stats"
+  />
 
-  <p style="text-align:center; color:#57606a; font-size: 14px;">
-    Consistent focus on problem-solving, clean architecture, and maintainable code
-  </p>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-rahat&layout=compact&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
 
-  <hr style="margin: 24px 0;"/>
+</div>
+
+<p style="text-align:center; color:#57606a; font-size:14px; margin-top:8px;">
+Consistent focus on problem-solving, clean code, and core computer science fundamentals
+</p>
 
   <!-- ====== CONTACT ====== -->
   <h2>Contact</h2>
